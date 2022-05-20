@@ -1,0 +1,28 @@
+.home-paying-div{
+    width: auto;
+    margin: auto;
+    height: 90px;
+    border-radius: 0.25em;
+    background-color: white;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.paying-item{
+    display: flex;
+    padding: 1rem;
+    align-items: center;
+    width: 300px;
+    justify-content: center;
+}
+.paying-item img{
+    width: 50px;
+    margin-right: 1rem;
+}
+
+.clickable{
+    color: var(--blue-text);
+    cursor: pointer;
+}

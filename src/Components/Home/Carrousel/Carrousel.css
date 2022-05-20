@@ -1,0 +1,9 @@
+.carrousel{
+    width: 100%;
+    height: 340px;
+    background-image:url(../../../../public/src/carrousel.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 2rem;
+}

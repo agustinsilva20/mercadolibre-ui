@@ -1,0 +1,22 @@
+.div-products{
+    width: 100%;
+    margin: auto;
+    min-height: 500px;
+
+}
+
+.div-products h2{
+    font-weight: 100;
+    color:#666666;
+    font-size: 27px;
+    margin-bottom: 2rem;
+}
+
+.product-galery{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap:wrap;
+    gap:4%;
+}

@@ -1,0 +1,99 @@
+.info-div{
+    width: 100%;
+    min-height: 300px;
+    border-radius: .25em;
+    border:1px solid rgba(0, 0, 0, 0.158);
+    padding: 1rem;
+    padding-top: 1.3rem;
+}
+
+.selled{
+    color: rgba(0,0,0,.55);
+    font-size: 14px;
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.title h3{
+    font-size: 22px;
+    color:rgba(0, 0, 0, 0.9);
+    font-weight: 600;
+    width: 90%;
+}
+.like{
+    width: 10%;
+}
+.stars{
+    margin-top: .4rem;
+    display: flex;
+    gap: .7rem;
+    margin-bottom: .4rem;
+}
+
+.orange{
+    background-color: #f73;
+    border-radius: 3px;
+    display: inline-block;
+    line-height: 1;
+    padding: 3px 4px;
+    word-break: break-all;
+    color: white;
+    font-size: 12px !important;
+    margin-bottom: .5rem;
+}
+
+.article-price{
+    font-size: 30px;
+    font-weight: 400;
+    color: rgba(0,0,0,.9);
+}
+
+.ahora12{
+    font-size: 18px;
+    font-weight: 400;
+    display: inline;
+    color: rgba(0,0,0,.9);
+}
+
+.mediospago{
+    margin-top: .5rem;
+    font-size: 12px;
+}
+
+.entrega{
+    margin-top: .5rem;
+    width: 100%;
+    display: flex;
+    gap: .5rem;
+    align-items: center;
+    
+}
+
+.entrega p{
+    font-size: 16px;
+}
+
+.entrega strong {
+    font-size: 16px;
+}
+
+.green-text{
+    color:#00a650;
+}
+
+.btnComprar{
+    
+    background-color: var(--blue-text);
+    color: white;
+    border-radius: .25em;
+    width: 100%;
+    margin: auto;
+    padding-top: .7rem;
+    padding-bottom: .7rem;
+    display: flex;justify-content: center;align-items: center;
+    margin-top:2rem;
+    cursor: pointer;
+
+}
