@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mercadolibre-ui/static/css/main.33f310fc.css",
+    "main.js": "/mercadolibre-ui/static/js/main.85ba699a.js",
+    "static/js/787.422764e7.chunk.js": "/mercadolibre-ui/static/js/787.422764e7.chunk.js",
+    "static/media/carrousel.webp": "/mercadolibre-ui/static/media/carrousel.d6b839dc2c4efd96a1e7.webp",
+    "index.html": "/mercadolibre-ui/index.html",
+    "main.33f310fc.css.map": "/mercadolibre-ui/static/css/main.33f310fc.css.map",
+    "main.85ba699a.js.map": "/mercadolibre-ui/static/js/main.85ba699a.js.map",
+    "787.422764e7.chunk.js.map": "/mercadolibre-ui/static/js/787.422764e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33f310fc.css",
+    "static/js/main.85ba699a.js"
+  ]
+}
